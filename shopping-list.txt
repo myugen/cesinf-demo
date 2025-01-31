@@ -1,3 +1,4 @@
 [ ] Potatos
 [ ] Apple
 [ ] Orange
+[ ] Milk
